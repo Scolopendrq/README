@@ -1,7 +1,7 @@
 # About me
 <html>
     <div class="header" align="center">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.videosharp.info%2F7788%2Fchecking%2Faspnet%3D584&psig=AOvVaw0Pm0hmaiSyatkiCYJZYeE-&ust=1665042396224000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLip1rbMyPoCFQAAAAAdAAAAABAD" wight="200" height="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" wight="200" height="100">
         <h1>Welcome!</h1>
         <h2>I`m C#/ASP.NET backend junior developer</h2>
     </div>
@@ -18,8 +18,7 @@
             <div class="about-me">
                 <h2> About me:</h2>
                 <p>
-                   I'm 21 y.o. student of NOVOSIBIRSK STATE UNIVERSITY OF ARCHITECTURE AND CIVIL ENGINEERING(SIBSTRIN), started development with c# and c++ in 2021 
-                   
+                   I'm 21 y.o. student of NOVOSIBIRSK STATE UNIVERSITY OF ARCHITECTURE AND CIVIL ENGINEERING(SIBSTRIN), started development with c# and c++ in 2021
                 </p>
             </div>
             <div class="knowledges">
