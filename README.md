@@ -26,7 +26,7 @@
                 <ul>
                     <li>C# and ASP.NET CORE</li>
                     <li>OOP</li>
-                    <li>Design Patterns(MVC,Factory, Strategy, Singleton, etc.)</li>
+                    <li>Design Patterns(MVC,Dependency injection,Factory, Strategy, Singleton, etc.)</li>
                 </ul>
             </div>
             <div class="tools">
@@ -37,7 +37,7 @@
             </div>
             <div class="languages-stats">
                 <h2>📊Languages stats:</h2>
-                <img src="https://github-readme-stats-beryl.vercel.app/api?username=PanDurko">
+                <img src="https://github-readme-stats-beryl.vercel.app/api?username=Scolopendq">
             </div>
         </div>
     </div>
