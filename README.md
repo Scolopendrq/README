@@ -37,7 +37,7 @@
             </div>
             <div class="languages-stats">
                 <h2>📊Languages stats:</h2>
-                <img src="https://github-readme-stats-beryl.vercel.app/api?username=Scolopendq">
+                <img src="https://github-readme-stats-beryl.vercel.app/api?username=Scolopendrq">
             </div>
         </div>
     </div>
