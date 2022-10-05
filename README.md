@@ -48,7 +48,7 @@
                 <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram" width="170" height="45">
             </a>
             
-            <br>
+           
              <img src="https://img.shields.io/badge/Gmail-fedoter.ru12345%40gmail.com-red" width="340" height="40">
         </div>
     </div>
