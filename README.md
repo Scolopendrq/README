@@ -47,7 +47,8 @@
             <a href="https://t.me/Scolopendrozzny" target="blank">
                 <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram" width="170" height="45">
             </a>
-            <img src="https://img.shields.io/badge/Gmail%20-fedoter.ru12345%40gmail.com-yellowgreen">     
+            <br>
+            <img src="https://img.shields.io/badge/Gmail%20-fedoter.ru12345%40gmail.com-yellowgreen" width="170" height="45">     
         </div>
     </div>
 </html>
