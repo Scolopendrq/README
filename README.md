@@ -49,7 +49,7 @@
             </a>
             
              <br>
-             <img src="https://img.shields.io/badge/Gmail%20-fedoter.ru12345%40gmail.com-yellowgreen">
+            
         </div>
     </div>
 </html>
