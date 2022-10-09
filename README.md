@@ -3,7 +3,7 @@
     <div class="header" align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" wight="200" height="100">
         <h1>Welcome!</h1>
-        <h2>I`m C#/ASP.NET backend junior developer</h2>
+        <h2>I`m C#/ASP.NET Core backend junior developer</h2>
     </div>
     <div class="body">
         <div class="languages">
